@@ -10,10 +10,19 @@ Andy Pavlo Memorial Office, the ultimate graduate student office." />
 	<meta name="revised" content="<?php echo date("D M j G:i:s T Y", getlastmod()) ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>CIT 317 &mdash; The ultimate graduate student office</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46147553-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <h1>CIT 317 &mdash; The Andy Pavlo Memorial Office</h1>
 <h2>The ultimate graduate student office</h2>
 <p>This page honors CIT 317, an office on the 3rd floor of the Center for
@@ -28,16 +37,19 @@ Pavlo</a> Memorial Office, to honor one of its most famous occupants.</p>
 to four occupants can work productively.<p>
 
 <h3>Occupants Honor Roll</h3>
-<ol>
-<li><a href="http://matteo.rionda.to">Matteo Riondato</a>, Postdoc and Visiting
-Assistant Professor, from February 2015. </li>
-<li><a href="http://www.epasto.org">Alessandro Epasto</a>, Postdoc, from January
-2015 to March 2016</li>
-<li><a href="http://cs.brown.edu/~mace">Jonathan Mace</a>, Ph.D. student.</li>
-<li><a href="http://cs.cmu.edu/~pavlo">Andy Pavlo</a>, Ph.D. Student, Gentleman, Lover, and Scholar.</li>
-</ol>
+<ul>
+	<li><a href="http://matteo.rionda.to/">Matteo Riondato</a>, Postdoc and
+Visiting Assistant Professor, from February 2015. </li>
+	<li><a href="http://www.epasto.org/">Alessandro Epasto</a>, Postdoc, from
+January 2015 to February 2016.</li>
+	<li><a href="">Mark Ballmer</a>, from ?? to May 2015.</li>
+	<li><a href="http://cs.brown.edu/~jcmace/">Jonathan Mace</a>, Ph.D.
+student.</li>
+	<li><a href="http://cs.cmu.edu/~pavlo/">Andy Pavlo</a>, Ph.D. Student,
+Gentleman, Lover, and Scholar. Until August 2013.</li>
+</ul>
 <p>For any addition or correction to the honor roll, please contact Matteo
-Riondato</p>
+Riondato.</p>
 
 <p>&copy; <?php echo date("Y")?> <a xmlns:cc="http://creativecommons.org/ns#"
 href="http://matteo.rionda.to" property="cc:attributionName"
