@@ -28,23 +28,26 @@ Andy Pavlo Memorial Office, the ultimate graduate student office." />
 <p>This page honors CIT 317, an office on the 3rd floor of the Center for
 Information Technology at Brown University, part of the Computer Science
 Department.<p>
-<p>CIT 317 has been, over the course of its existences, a graduate student
+<p>CIT 317 has been, over the course of its existence, a graduate student
 office (mostly, if not only, reserved to Ph.D. students), a postdoc office, and
 a visiting faculty office.<p>
 <p>Since May 2014, CIT 317 is also the <a href="http://cs.cmu.edu/~pavlo/">Andy
-Pavlo</a> Memorial Office, to honor one of its most famous occupants.</p>
+Pavlo</a> Memorial Office, to honor one of its most (in)famous occupants.</p>
 <p>CIT 317 has two desks, but three scholars can comfortably sit in it, and up
 to four occupants can work productively.<p>
 
 <h3>Occupants Honor Roll</h3>
 <ul>
-	<li><a href="http://matteo.rionda.to/">Matteo Riondato</a>, Postdoc and
-Visiting Assistant Professor, from February 2015. </li>
+	<li><a href="https://www.chriswtanner.com/">Chris Tanner</a>, Ph.D. Student,
+from November 2018.</li>
+	<li>Serdar Kadioglu, Visiting Faculty, from September 2017.</li>
+	<li><a href="http://matteo.rionda.to/">Matteo Riondato</a>, Postdoc, then
+Visiting Faculty, from February 2015. </li>
 	<li><a href="http://www.epasto.org/">Alessandro Epasto</a>, Postdoc, from
 January 2015 to February 2016.</li>
 	<li><a href="">Mark Ballmer</a>, from ?? to May 2015.</li>
 	<li><a href="http://cs.brown.edu/~jcmace/">Jonathan Mace</a>, Ph.D.
-student.</li>
+student, from ??? to ???</li>
 	<li><a href="http://cs.cmu.edu/~pavlo/">Andy Pavlo</a>, Ph.D. Student,
 Gentleman, Lover, and Scholar. Until August 2013.</li>
 </ul>
